@@ -1,0 +1,2 @@
+# Brittleness-Predicition-using-Machine-Learning
+Brittleness is known to be an important reservoir property in hydraulic fracturing. Under a certain level of differential stress, brittle rocks fail creating planes of weakness that are kept open by the injected proppant, causing secondary permeability in the rock.  This repo contains python scripts to estimate brittleness using elastic and mineralogical properties and to predict brittleness using machine learning.
