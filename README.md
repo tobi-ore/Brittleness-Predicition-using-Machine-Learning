@@ -23,8 +23,7 @@ The `ML_Models_X.ipnyb` is the notebook where the models are built, trained and 
 
 ## Authors
 
-[Tobi Ore](https://github.com/tobi-ore) and
-[Dengliang Gao]
+[Tobi Ore](https://github.com/tobi-ore) and Dengliang Gao
 
 ## License
 
